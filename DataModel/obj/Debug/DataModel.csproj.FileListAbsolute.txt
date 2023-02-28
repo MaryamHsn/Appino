@@ -1,0 +1,32 @@
+C:\Users\Mgolpa\Documents\Visual Studio 2017\Projects\App\DataModel\bin\Debug\DataModel.dll
+C:\Users\Mgolpa\Documents\Visual Studio 2017\Projects\App\DataModel\bin\Debug\DataModel.pdb
+C:\Users\Mgolpa\Documents\Visual Studio 2017\Projects\App\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache
+C:\Users\Mgolpa\Documents\Visual Studio 2017\Projects\App\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Mgolpa\Documents\Visual Studio 2017\Projects\App\DataModel\obj\Debug\DataModel.dll
+C:\Users\Mgolpa\Documents\Visual Studio 2017\Projects\App\DataModel\obj\Debug\DataModel.pdb
+C:\Users\Mgolpa\Documents\Visual Studio 2017\Projects\App\DataModel\bin\Debug\DataModel.dll.config
+C:\Users\Mgolpa\Documents\Visual Studio 2017\Projects\App\DataModel\bin\Debug\EntityFramework.dll
+C:\Users\Mgolpa\Documents\Visual Studio 2017\Projects\App\DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mgolpa\Documents\Visual Studio 2017\Projects\App\DataModel\bin\Debug\EntityFramework.xml
+C:\Users\Mgolpa\Documents\Visual Studio 2017\Projects\App\DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maryam\Desktop\a\960914B-REpository+UOW\App\DataModel\bin\Debug\DataModel.dll.config
+C:\Users\Maryam\Desktop\a\960914B-REpository+UOW\App\DataModel\bin\Debug\DataModel.dll
+C:\Users\Maryam\Desktop\a\960914B-REpository+UOW\App\DataModel\bin\Debug\DataModel.pdb
+C:\Users\Maryam\Desktop\a\960914B-REpository+UOW\App\DataModel\bin\Debug\EntityFramework.dll
+C:\Users\Maryam\Desktop\a\960914B-REpository+UOW\App\DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maryam\Desktop\a\960914B-REpository+UOW\App\DataModel\bin\Debug\EntityFramework.xml
+C:\Users\Maryam\Desktop\a\960914B-REpository+UOW\App\DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maryam\Desktop\a\960914B-REpository+UOW\App\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Maryam\Desktop\a\960914B-REpository+UOW\App\DataModel\obj\Debug\DataModel.dll
+C:\Users\Maryam\Desktop\a\960914B-REpository+UOW\App\DataModel\obj\Debug\DataModel.pdb
+E:\@SelfWork\Mega-master\App\DataModel\bin\Debug\DataModel.dll.config
+E:\@SelfWork\Mega-master\App\DataModel\bin\Debug\DataModel.dll
+E:\@SelfWork\Mega-master\App\DataModel\bin\Debug\DataModel.pdb
+E:\@SelfWork\Mega-master\App\DataModel\bin\Debug\EntityFramework.dll
+E:\@SelfWork\Mega-master\App\DataModel\bin\Debug\EntityFramework.SqlServer.dll
+E:\@SelfWork\Mega-master\App\DataModel\bin\Debug\EntityFramework.xml
+E:\@SelfWork\Mega-master\App\DataModel\bin\Debug\EntityFramework.SqlServer.xml
+E:\@SelfWork\Mega-master\App\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache
+E:\@SelfWork\Mega-master\App\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
+E:\@SelfWork\Mega-master\App\DataModel\obj\Debug\DataModel.dll
+E:\@SelfWork\Mega-master\App\DataModel\obj\Debug\DataModel.pdb

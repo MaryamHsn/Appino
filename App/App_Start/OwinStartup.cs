@@ -1,0 +1,3 @@
+﻿using App.App_Start;
+using App.IoCConfig; using App.JWT.JWTConfig; using Microsoft.Owin;
+using Owin; using System; using System.Collections.Generic; using System.Linq; using System.Web;   [assembly: OwinStartup(typeof(OwinStartup))] namespace App.App_Start {     public class OwinStartup     {         public void Configuration(IAppBuilder app)         {             app.UseOAuthAuthorizationServer(SmObjectFactory.Container.GetInstance<AppOAuthOptions>());             app.UseJwtBearerAuthentication(SmObjectFactory.Container.GetInstance<AppJwtOptions>());         }     } }
